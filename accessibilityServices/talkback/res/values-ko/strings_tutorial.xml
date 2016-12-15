@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title_pref_tutorial" msgid="3245369379022519951">"\'터치하여 탐색\' 안내서 시작하기"</string>
+    <string name="accessibility_tutorial_title" msgid="3604139189214645351">"접근성 안내서"</string>
+    <string name="accessibility_tutorial_next" msgid="5403131568391761625">"다음"</string>
+    <string name="accessibility_tutorial_back" msgid="7953265962480572962">"이전"</string>
+    <string name="accessibility_tutorial_finish" msgid="8651842380314324443">"마침"</string>
+    <string name="accessibility_tutorial_skip" msgid="4635703249458449485">"나가기"</string>
+    <string name="accessibility_tutorial_touch_disabled" msgid="1947871282831171107">"음성 안내 시 터치 동작 사용 중지"</string>
+    <string name="accessibility_tutorial_lesson_1_title" msgid="8913174159810078422">"강의 1: 화면 탐색"</string>
+    <string name="accessibility_tutorial_lesson_1_text_1" msgid="6281024124325477313">"\'터치하여 탐색\' 기능을 사용하도록 설정하면, 화면을 터치하여 손가락 아래에 표시된 항목이 무엇인지 알 수 있습니다. 예를 들어, 현재 화면에 앱 아이콘이 있습니다. 화면을 터치하고 손가락을 움직여 앱을 찾아 보세요."</string>
+    <string name="accessibility_tutorial_lesson_1_text_2_more" msgid="7154137274310772436">"최소 하나 이상의 아이콘을 찾을 때까지 화면을 손가락으로 계속 슬라이드합니다."</string>
+    <string name="accessibility_tutorial_lesson_1_text_3" msgid="5866504456242703872">"화면 어디에서든 손가락을 왼쪽이나 오른쪽으로 스와이프하여 탐색할 수도 있습니다. 다음 아이콘으로 이동하려면 왼쪽에서 오른쪽으로 빠르게 스와이프하세요."</string>
+    <string name="accessibility_tutorial_lesson_1_text_4" msgid="56981537955090208">"탐색한 항목을 활성화하려면 화면을 두 번 탭합니다. <xliff:g id="APP_NAME">%1$s</xliff:g> 아이콘이 나타날 때까지 탐색하세요. 그리고 화면 어디에서든 두 번 탭하여 활성화합니다."</string>
+    <string name="accessibility_tutorial_lesson_1_text_5" msgid="1208294090974872449">"<xliff:g id="APP_NAME">%1$s</xliff:g> 아이콘을 찾았습니다. 화면 어디에서든 두 번 탭하여 해당 아이콘을 활성화합니다."</string>
+    <string name="accessibility_tutorial_lesson_1_text_5_exited" msgid="8862005898053070331">"<xliff:g id="APP_NAME_0">%1$s</xliff:g> 아이콘을 지나쳤습니다. <xliff:g id="APP_NAME_1">%1$s</xliff:g> 아이콘이 다시 나타날 때까지 화면을 탐색하세요."</string>
+    <string name="accessibility_tutorial_lesson_1_text_6" msgid="4094982888777210681">"다음 강의로 이동하려면 화면의 오른쪽 하단 근처에 있는 <xliff:g id="NEXT">%1$s</xliff:g> 버튼을 찾아 두 번 탭하여 활성화합니다."</string>
+    <string name="accessibility_tutorial_lesson_2_title" msgid="8237242914117751937">"강의 2: 목록 스크롤하기"</string>
+    <string name="accessibility_tutorial_lesson_2_text_1" msgid="3701529365516687824">"목록을 스크롤하려면 두 손가락으로 화면을 따라 슬라이드하면 됩니다. 예를 들어 현재 화면에 위/아래로 스크롤할 수 있는 앱 이름 목록이 있습니다. 먼저 화면을 탐색하여 앱을 확인해 보세요."</string>
+    <string name="accessibility_tutorial_lesson_2_text_2" msgid="6798295786754555066">"이제 목록에서 항목에 두 손가락을 놓고 위로 슬라이드합니다. 화면 상단에 도달하면 손가락을 들고 목록의 아래에 놓은 다음 계속해서 위로 슬라이드합니다."</string>
+    <string name="accessibility_tutorial_lesson_2_text_3" msgid="3159628036244792602">"화면을 탐색하여 다른 앱을 하나 찾아보세요."</string>
+    <string name="accessibility_tutorial_lesson_2_text_4" msgid="8714551968743323879">"손가락으로 스와이프하여 전체 페이지를 스크롤할 수도 있습니다. 다음 페이지로 스크롤하려면, 한번에 오른쪽에서 왼쪽으로 스와이프합니다. 오른쪽에서 왼쪽으로 스와이프하여 다음 페이지로 스크롤해 보세요."</string>
+    <string name="accessibility_tutorial_lesson_2_text_5" msgid="8943035012040524546">"화면을 다시 탐색하여 현재 페이지에서 앱을 찾아 보세요."</string>
+    <string name="accessibility_tutorial_lesson_2_text_6" msgid="6541093467485133324">"반대 방향, 즉 한번에 왼쪽에서 오른쪽으로 스와이프하면 이전 페이지로 이동합니다. 왼쪽에서 오른쪽으로 스와이프하여 이전 페이지로 스크롤해 보세요."</string>
+    <string name="accessibility_tutorial_lesson_2_text_7" msgid="3684610203615874623">"다음 강의로 이동하려면 화면의 오른쪽 하단 근처에 있는 <xliff:g id="NEXT">%1$s</xliff:g> 버튼을 찾아 두 번 탭하여 활성화합니다."</string>
+    <string name="accessibility_tutorial_lesson_3_title" msgid="6024010587544294119">"강의 3: 컨텍스트 메뉴"</string>
+    <string name="accessibility_tutorial_lesson_3_text_1" msgid="9044343256290855911">"음성 안내 지원에는 설정 및 컨트롤을 쉽게 찾을 수 있도록 도와주는 글로벌 컨텍스트 메뉴와 로컬 컨텍스트 메뉴가 있습니다. 동그랗게 배열된 메뉴 항목을 따라 손가락을 슬라이드하여 원하는 항목이 들릴 때 손가락을 놓으면 메뉴 항목을 활성화할 수 있습니다. 손가락을 한번에 <xliff:g id="GLOBAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>으로 스와이프하여 글로벌 컨텍스트 메뉴를 불러와 보세요."</string>
+    <string name="accessibility_tutorial_lesson_3_text_2" msgid="5215263111579070328">"글로벌 컨텍스트 메뉴에는 음성 안내 지원을 통해 어디에서나 작동하는 일반 명령어가 포함되어 있습니다. 화면의 모든 텍스트를 읽어 보세요. 화면의 중앙을 눌러 손가락 주변에 원형 메뉴를 표시한 다음, 동그랗게 배열된 옵션을 따라 손가락을 슬라이드하여 \'<xliff:g id="READ_FROM_TOP_ITEM_TEXT">%1$s</xliff:g>\'이(가) 들릴 때 손가락을 놓으세요."</string>
+    <string name="accessibility_tutorial_lesson_3_text_3_hidden" msgid="8766520681673257029">"글로벌 컨텍스트 메뉴를 닫았습니다. 손가락을 한번에 <xliff:g id="GLOBAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>으로 스와이프하여 글로벌 컨텍스트 메뉴를 다시 불러와 보세요."</string>
+    <string name="accessibility_tutorial_lesson_3_text_3" msgid="2904044424555349808">"잘 하셨습니다. 이 명령어는 화면의 모든 항목을 읽어줍니다. 음성 안내 지원에는 글로벌 컨텍스트 메뉴 외에도 로컬 컨텍스트 메뉴가 있습니다. 로컬 컨텍스트 메뉴에는 선택한 화면의 항목에 따라 변경되는 컨트롤이 포함되어 있습니다. 손가락을 한번에 <xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>으로 스와이프하여 로컬 컨텍스트 메뉴를 불러와 보세요."</string>
+    <string name="accessibility_tutorial_lesson_3_text_4" msgid="2111031135741866859">"화면 중앙을 손가락으로 누른 뒤 놓으면 메뉴가 취소되어 닫힙니다. 지금 로컬 컨텍스트 메뉴를 닫아보세요."</string>
+    <string name="accessibility_tutorial_lesson_3_text_5" msgid="1433387654169429731">"이제 컨텍스트 메뉴를 표시하고 탐색하는 방법에 대해 이해했을 것입니다. 다음 강의에서는 컨텍스트 메뉴를 사용해야 하는 경우에 대해 더 자세히 알아볼 것입니다. 계속하려면 화면 오른쪽 하단에 있는 <xliff:g id="NEXT">%1$s</xliff:g> 버튼을 찾아서 활성화하세요."</string>
+    <string name="accessibility_tutorial_lesson_4_title" msgid="3898999689844982160">"강의 4: 읽기 단위"</string>
+    <string name="accessibility_tutorial_lesson_4_text_1" msgid="9109984626149104730">"음성 안내 지원은 텍스트를 다양한 방법으로 탐색할 수 있는 읽기 단위 선택 기능을 제공합니다. 예를 들면 텍스트 단락을 단락별, 단어별, 문자별로 읽을 수 있습니다. 시작하려면 화면 중앙의 텍스트 상자를 찾아 내용을 읽으세요."</string>
+    <string name="accessibility_tutorial_lesson_4_text_2" msgid="8061829788850239030">"특정 항목에 초점을 맞추면 기본 읽기 단위를 사용하여 모든 텍스트를 읽어줍니다. 읽기 단위를 변경하여 텍스트를 한 번에 한 글자씩 읽어보세요. 이렇게 하면 이름의 철자를 확인하거나 이메일 주소를 읽을 때 도움이 됩니다. 먼저 손가락을 <xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>(으)로 스와이프하여 로컬 컨텍스트 메뉴를 엽니다."</string>
+    <string name="accessibility_tutorial_lesson_4_text_3_focus_lost" msgid="8713408442068375091">"대상 텍스트 상자에서 다른 곳으로 이동했습니다. 화면 중앙을 탭하여 다시 텍스트 상자로 이동하세요."</string>
+    <string name="accessibility_tutorial_lesson_4_text_3" msgid="5978230561116221609">"이제 메뉴를 따라 동그랗게 손가락을 슬라이드하다가 <xliff:g id="CHARACTER_GRANULARITY">%1$s</xliff:g> 소리가 나면 선택합니다."</string>
+    <string name="accessibility_tutorial_lesson_4_text_4_menu_hidden" msgid="879065229665819294">"<xliff:g id="CHARACTER_GRANULARITY">%1$s</xliff:g>(으)로 변경하지 않고 로컬 컨텍스트 메뉴를 닫았습니다. 손가락을 <xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%2$s</xliff:g>으로 스와이프하여 로컬 컨텍스트 메뉴를 다시 여세요."</string>
+    <string name="accessibility_tutorial_lesson_4_text_4" msgid="2648520368832903832">"좋습니다. 이제 글자 단위로 이동합니다. 화면 상단에서 하단까지 스와이프하면 한 글자씩 앞으로 이동합니다. 화면 상단에서 하단으로 3번 스와이프하여 텍스트의 다음 3글자를 읽어보세요."</string>
+    <string name="accessibility_tutorial_lesson_4_text_5_granularity_changed" msgid="124123881203918192">"읽기 단위를 변경하여 더 이상 <xliff:g id="CHARACTER_GRANULARITY_0">%1$s</xliff:g> 단위가 아닙니다. 손가락을 <xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%2$s</xliff:g>(으)로 한번에 스와이프하면 로컬 컨텍스트 메뉴에서 다시 <xliff:g id="CHARACTER_GRANULARITY_1">%1$s</xliff:g>(으)로 변경할 수 있습니다."</string>
+    <string name="accessibility_tutorial_lesson_4_text_5_next" msgid="3704738796332255150">"이제 읽기 단위를 변경하여 텍스트를 읽는 방법을 이해하셨습니다. 계속하려면 화면 오른쪽 하단에 있는 <xliff:g id="NEXT">%1$s</xliff:g> 버튼을 활성화하세요."</string>
+    <string name="accessibility_tutorial_lesson_4_text_5_finish" msgid="1105011845460095430">"이제 읽기 단위를 변경하여 텍스트를 읽는 방법을 이해하셨습니다. 이로써 음성 안내 지원 가이드를 마치겠습니다. 가이드를 종료하려면 화면 오른쪽 하단에 있는 <xliff:g id="FINISH">%1$s</xliff:g> 버튼을 찾아서 활성화하세요."</string>
+    <string name="accessibility_tutorial_lesson_4_text_view_text" msgid="6855162251486030701">"다음은 다양한 읽기 단위로 읽을 수 있는 텍스트의 예입니다."</string>
+    <string name="accessibility_tutorial_lesson_5_title" msgid="8613456449816489894">"강의 5: 텍스트 수정"</string>
+    <string name="accessibility_tutorial_lesson_5_text_1" msgid="3546446192289638847">"이 강의에서는 음성 안내 지원을 사용하여 텍스트를 편집하는 방법에 대해 학습합니다. 시작하려면 화면 중앙의 텍스트 상자를 찾으세요."</string>
+    <string name="accessibility_tutorial_lesson_5_text_2" msgid="8657622876258666475">"수정할 수 있는 텍스트 입력란을 선택한 뒤 화면의 아무 곳이나 두 번 탭하면 키보드가 표시되어 텍스트 수정을 시작할 수 있습니다. 지금 화면을 두 번 탭해 보세요."</string>
+    <string name="accessibility_tutorial_lesson_5_text_3" msgid="3380647467066087130">"입력란에 이미 텍스트가 있습니다. 로컬 컨텍스트 메뉴에서 텍스트 시작 부분으로 커서를 이동할 수 있습니다. <xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>을(를) 한 번에 스와이프하여 <xliff:g id="CURSOR_CONTROL">%2$s</xliff:g>와(과) <xliff:g id="MOVE_CURSOR_TO_BEGINNING">%3$s</xliff:g>을(를) 차례로 활성화하세요."</string>
+    <string name="accessibility_tutorial_lesson_5_text_4" msgid="8558884036003156069">"텍스트를 수정할 때 로컬 컨텍스트 메뉴에서 적절한 읽기 단위를 선택하는 것이 좋습니다. <xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>을(를) 한 번에 스와이프하여 <xliff:g id="CHANGE_GRANULARITY">%2$s</xliff:g>와(과) <xliff:g id="WORD_GRANULARITY">%3$s</xliff:g>을(를) 차례로 활성화하세요."</string>
+    <string name="accessibility_tutorial_lesson_5_text_5" msgid="1428643548218176340">"이제 위에서 아래로 손가락을 스와이프하여 텍스트를 한 번에 한 단어씩 탐색합니다. 텍스트 마지막 부분에 도달할 때까지 위에서 아래로 계속 스와이프하세요."</string>
+    <string name="accessibility_tutorial_lesson_5_text_6" msgid="7272393741816463439">"텍스트를 수정할 때 손가락으로 스와이프하는 대신 기기에서 볼륨 키를 사용하여 텍스트를 탐색할 수 있으며 음성 안내 지원을 사용하여 텍스트 선택을 제어할 수도 있습니다. 로컬 컨텍스트 메뉴를 사용하여 입력란의 모든 텍스트를 선택할 수 있습니다. <xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>을(를) 한 번에 스와이프하여 <xliff:g id="CURSOR_CONTROL">%2$s</xliff:g>와(과) <xliff:g id="SELECT_ALL">%3$s</xliff:g>을(를) 차례로 활성화하세요."</string>
+    <string name="accessibility_tutorial_lesson_5_text_7" msgid="8890219138239550872">"잘 하셨습니다. 모든 텍스트를 선택했습니다. 선택한 텍스트를 더 세밀하게 제어하려면 로컬 컨텍스트 메뉴에서 선택 모드를 활성화면 됩니다. 텍스트를 수정할 때 터치 키보드 위에서 손가락을 슬라이드하고 원하는 키 음이 들릴 때 손가락을 떼어 텍스트를 입력할 수 있습니다. 텍스트를 입력하여 선택한 텍스트를 대체해 보세요."</string>
+    <string name="accessibility_tutorial_lesson_5_text_8" msgid="9077661742567966303">"텍스트 수정이 끝나면 키보드를 닫을 수 있습니다. 손가락을 슬라이드하다가 완료 버튼이 표시될 때 손가락을 떼면 됩니다. 이로써 음성 안내 지원 가이드를 마치겠습니다. 가이드를 종료하려면 화면 오른쪽 하단에 있는 <xliff:g id="FINISH">%1$s</xliff:g> 버튼을 활성화하세요."</string>
+    <string name="accessibility_tutorial_lesson_5_editable_text" msgid="3537304203610851169">"샘플 텍스트"</string>
+    <string name="accessibility_tutorial_alert_dialog_exit" msgid="6604033839776950241">"종료"</string>
+    <string name="accessibility_tutorial_service_inactive_title" msgid="5640949274947370358">"\'터치하여 탐색\' 필요"</string>
+    <string name="accessibility_tutorial_service_inactive_message" msgid="1808749405557397970">"이 가이드에는 \'터치하여 탐색\' 기능이 필요합니다. 가이드를 실행하기 전에 음성 안내 지원과 \'터치하여 탐색\' 기능을 사용하도록 설정하세요."</string>
+    <string name="accessibility_tutorial_service_suspended_title" msgid="7163740223497398638">"음성 안내 지원 일시중지됨"</string>
+    <string name="accessibility_tutorial_service_suspended_message" msgid="5633367032537299661">"피드백을 일시중지하면 음성 안내 지원 가이드를 사용할 수 없습니다. 계속하려면 음성 안내 지원 피드백을 다시 시작한 다음 가이드를 다시 시작하세요."</string>
+    <string name="accessibility_tutorial_missing_assignment_title" msgid="5676431029357436455">"동작 지정 없음"</string>
+    <string name="accessibility_tutorial_missing_assignment_message" msgid="2845312981319504607">"\'<xliff:g id="ACTION">%1$s</xliff:g>\' 작업에 지정된 동작이 없습니다. 음성 안내 지원 설정에서 해당 작업에 대한 바로가기 동작을 설정한 다음 음성 안내 지원 가이드를 다시 시작하시기 바랍니다."</string>
+</resources>

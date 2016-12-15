@@ -1,0 +1,42 @@
+# view AndroidManifest.xml #generated:79
+-keep class com.googlecode.eyesfree.braille.service.display.DisplayService { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.googlecode.eyesfree.braille.service.translate.TranslatorService { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.googlecode.eyesfree.brailleback.BrailleBackPreferencesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.googlecode.eyesfree.brailleback.BrailleBackService { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.googlecode.eyesfree.brailleback.BrailleIME { <init>(...); }
+
+# view res/layout/overlay.xml #generated:24
+-keep class com.googlecode.eyesfree.brailleback.BrailleView { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.googlecode.eyesfree.brailleback.IMESetupWizardActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.googlecode.eyesfree.brailleback.KeyBindingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:135
+-keep class com.googlecode.eyesfree.brailleback.OverlayTutorialActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:144
+-keep class com.googlecode.eyesfree.brailleback.SearchTutorialActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.googlecode.eyesfree.brailleback.SelfBrailleService { <init>(...); }
+
+# onClick res/layout/overlay_tutorial_activity.xml #generated:24
+-keepclassmembers class * { *** onClickAccessibilitySettingsButton(...); }
+
+# onClick res/layout/search_tutorial_activity.xml #generated:34
+-keepclassmembers class * { *** onClickCloseButton(...); }
+
+# onClick res/layout/overlay_tutorial_activity.xml #generated:62
+-keepclassmembers class * { *** onClickFinishButton(...); }
+

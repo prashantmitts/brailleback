@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainFrameLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/wallpaper"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitCenter" />
+
+    <RelativeLayout
+        android:id="@+id/widgetHolder"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <RelativeLayout
+        android:id="@+id/homeScreenControlsArea"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/mainText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:focusable="false"
+            android:text="Home"
+            android:textColor="#ffffff"
+            android:textSize="50px"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="10px"
+                android:layout_y="360px"
+                android:focusable="false"
+                android:importantForAccessibility="no"
+                android:text="Stroke the screen to start applications."
+                android:textColor="#ffffff"
+                android:textSize="16px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="10px"
+                android:layout_y="380px"
+                android:focusable="false"
+                android:importantForAccessibility="no"
+                android:text="Hold the BACK button for 5 seconds"
+                android:textColor="#ffffff"
+                android:textSize="18px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="10px"
+                android:layout_y="400px"
+                android:focusable="false"
+                android:importantForAccessibility="no"
+                android:text="to go to the regular home screen."
+                android:textColor="#ffffff"
+                android:textSize="18px" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/chooserControlsArea"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <com.google.marvin.shell.AppChooserView
+                android:id="@+id/appChooserView"
+                android:layout_width="1dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="80" />
+
+            <com.google.marvin.shell.WidgetChooserView
+                android:id="@+id/widgetChooserView"
+                android:layout_width="1dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="80" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- no translation found for talkback_service_description (983212841294665356) -->
+    <skip />
+    <!-- no translation found for talkback_preferences_title (615685549632541311) -->
+    <skip />
+    <!-- no translation found for label_manager_summary_title (6129629673621990309) -->
+    <skip />
+    <!-- no translation found for label_manager_package_title (5518823554025145373) -->
+    <skip />
+    <!-- no translation found for label_manager_no_packages_message (2531887372542054600) -->
+    <skip />
+    <!-- no translation found for label_manager_timestamp_text (5161359164826380670) -->
+    <skip />
+    <string name="notification_type_text_message" msgid="2840489326612585077">"Messadi SMS"</string>
+    <string name="notification_type_failed_text_message" msgid="3279662617442887805">"SMS betg tramess"</string>
+    <string name="notification_type_missed_call" msgid="4227042474220035667">"Clom manchentà"</string>
+    <string name="notification_type_usb_connected" msgid="6285639671469979341">"USB connectà"</string>
+    <string name="notification_type_status_mute" msgid="575502984311443548">"Nagin tun"</string>
+    <string name="notification_type_status_chat" msgid="6270641711377218448">"Chat"</string>
+    <string name="notification_type_status_error" msgid="9106600515811868558">"Errur"</string>
+    <string name="notification_type_status_more" msgid="3191659976249507098">"Dapli"</string>
+    <string name="notification_type_status_sdcard" msgid="2268627072134312579">"Carta SD"</string>
+    <string name="notification_type_status_sdcard_usb" msgid="410122674028987252">"Carta SD USB"</string>
+    <string name="notification_status_sync" msgid="4919271166470257796">"Sincronisaziun"</string>
+    <!-- no translation found for notification_type_new_email (207543580986817175) -->
+    <skip />
+    <string name="notification_type_status_sync_noanim" msgid="7207653060078653323">"Sincronisaziun"</string>
+    <string name="notification_type_status_voicemail" msgid="7888717277194798847">"Mailbox"</string>
+    <string name="notification_status_play" msgid="5444333019485373575">"En reproducziun"</string>
+    <!-- no translation found for template_current_tts_engine (2402080656466274253) -->
+    <skip />
+    <!-- no translation found for template_menu (1721331413132447874) -->
+    <skip />
+    <!-- no translation found for template_edit_box (8644462446565912356) -->
+    <skip />
+    <!-- no translation found for template_alert_dialog_template (578525726030867650) -->
+    <skip />
+    <!-- no translation found for template_text_replaced (7412248329207268610) -->
+    <skip />
+    <!-- no translation found for template_text_removed (515933675336971194) -->
+    <skip />
+    <!-- no translation found for template_replaced_characters (5425385364820310962) -->
+    <skip />
+    <!-- no translation found for template_labeled_item (3704140260750999514) -->
+    <skip />
+    <!-- no translation found for template_image_view (4213590103284596735) -->
+    <skip />
+    <!-- no translation found for template_list_view (4569888407076618446) -->
+    <skip />
+    <!-- no translation found for template_long_clicked (915072513538350747) -->
+    <skip />
+    <!-- no translation found for template_button (6774709818484366257) -->
+    <skip />
+    <!-- no translation found for template_unlabeled_image_view (6539830337756717284) -->
+    <skip />
+    <!-- no translation found for template_unlabeled_button (510330666175123037) -->
+    <skip />
+    <!-- no translation found for template_seek_bar (8598603084443742698) -->
+    <skip />
+    <!-- no translation found for template_percent (8298434876867671403) -->
+    <skip />
+    <!-- no translation found for template_container (8918583415236947599) -->
+    <skip />
+    <!-- no translation found for value_gridview (9093738961981389981) -->
+    <skip />
+    <!-- no translation found for value_listview (3437715684913760710) -->
+    <skip />
+    <!-- no translation found for value_tabwidget (5550633699198799743) -->
+    <skip />
+    <!-- no translation found for template_scroll_from_to_count (3686789962835061906) -->
+    <skip />
+    <!-- no translation found for template_scroll_from_count (677594507054979865) -->
+    <skip />
+    <!-- no translation found for template_spinner (3914981448273826697) -->
+    <skip />
+    <!-- no translation found for template_password_selected (7528235887386963927) -->
+    <skip />
+    <!-- no translation found for template_capital_letter (9151240217884890264) -->
+    <skip />
+    <!-- no translation found for template_checkbox (5452847405394165465) -->
+    <skip />
+    <!-- no translation found for template_radio_button (6220410400770793883) -->
+    <skip />
+    <!-- no translation found for template_switch (1615681613214625067) -->
+    <skip />
+    <string name="value_password" msgid="52094746222829357">"pled-clav"</string>
+    <string name="value_sliding_drawer_opened" msgid="2149064620861446612">"Reglader ruschnant avert"</string>
+    <!-- no translation found for value_notification_shade_opened (3832526419695611670) -->
+    <skip />
+    <string name="value_options_menu_open" msgid="8668502811176292723">"Opziuns."</string>
+    <!-- no translation found for value_text_cleared (3190458526844389854) -->
+    <skip />
+    <string name="value_text_removed" msgid="2700105425865376595">"stizzà"</string>
+    <string name="value_notification_summary" msgid="1053258094292920648">"Resumaziun dad avis"</string>
+    <!-- no translation found for value_selected (6785267365387973217) -->
+    <skip />
+    <string name="value_checked" msgid="5234989698372864892">"tschernì"</string>
+    <string name="value_not_checked" msgid="193134740901545340">"betg tschernì"</string>
+    <!-- no translation found for value_disabled (65077823320194685) -->
+    <skip />
+    <!-- no translation found for value_double_tap (7829968646330038608) -->
+    <skip />
+    <!-- no translation found for value_single_tap (6461432282985355533) -->
+    <skip />
+    <!-- no translation found for template_hint_clickable (1687873106975426560) -->
+    <skip />
+    <!-- no translation found for template_hint_long_clickable (4276746786982054368) -->
+    <skip />
+    <!-- no translation found for template_hint_checkable (6312875663486456665) -->
+    <skip />
+    <!-- no translation found for template_hint_edit_text (4793267613633348902) -->
+    <skip />
+    <!-- no translation found for template_hint_spinner (1320498935380159474) -->
+    <skip />
+    <!-- no translation found for hint_radial_menu (3815241030009647972) -->
+    <skip />
+    <!-- no translation found for hint_summary_jog_dial (8205055415827657230) -->
+    <skip />
+    <!-- no translation found for value_scrollable (2310899165772659098) -->
+    <skip />
+    <string name="value_clicked" msgid="8306469740150249879">"cliccà"</string>
+    <!-- no translation found for value_unlabeled (8693644316256459264) -->
+    <skip />
+    <string name="value_ringer_vibrate" msgid="4632889587347385751">"Scalin en modus da vibraziun"</string>
+    <string name="value_ringer_silent" msgid="672965424730167385">"Scalin en modus silenzius"</string>
+    <string name="value_screen_off" msgid="8705438751467344903">"Visur stizzà."</string>
+    <!-- no translation found for value_device_unlocked (1424846510201818289) -->
+    <skip />
+    <!-- no translation found for value_web_view (8611542401983419041) -->
+    <skip />
+    <!-- no translation found for value_no_items (3587303601074849845) -->
+    <skip />
+    <!-- no translation found for title_pref_category_when_to_speak (9082038550046119493) -->
+    <skip />
+    <!-- no translation found for title_pref_speech_volume (4013853601342391397) -->
+    <skip />
+    <!-- no translation found for title_pref_speak_screenoff (1278357255432372076) -->
+    <skip />
+    <!-- no translation found for summaryOn_pref_speak_screenoff (8939554146179627909) -->
+    <skip />
+    <!-- no translation found for summaryOff_pref_speak_screenoff (6148656407539902635) -->
+    <skip />
+    <!-- no translation found for title_pref_caller_id (1414845059814636961) -->
+    <skip />
+    <!-- no translation found for title_pref_proximity (4957940010293002852) -->
+    <skip />
+    <string name="summaryOn_pref_proximity" msgid="9000886370261892995">"Il sensur da proximitad deactivescha il discurrer"</string>
+    <string name="summaryOff_pref_proximity" msgid="3024213283254452034">"Il sensur da proximitad na controllescha betg il discurrer"</string>
+    <!-- no translation found for title_pref_explore_by_touch (4051040843081874790) -->
+    <skip />
+    <!-- no translation found for title_pref_auto_scroll (5676036153048224469) -->
+    <skip />
+    <!-- no translation found for title_pref_category_touch_exploration (4152747299134842442) -->
+    <skip />
+    <!-- no translation found for title_pref_single_tap (3053869870881145209) -->
+    <skip />
+    <!-- no translation found for summary_pref_single_tap (3011671416541372042) -->
+    <skip />
+    <!-- no translation found for title_pref_shake_to_read_threshold (544749941147543935) -->
+    <skip />
+    <!-- no translation found for title_pref_category_manage_gestures (5457025819029526883) -->
+    <skip />
+    <!-- no translation found for title_pref_manage_labels (593992209353672625) -->
+    <skip />
+    <!-- no translation found for title_pref_category_touch_shortcuts (4220670726993962812) -->
+    <skip />
+    <!-- no translation found for title_pref_category_built_in_gestures (1088371786802119419) -->
+    <skip />
+    <!-- no translation found for title_pref_intonation (7762392438106753854) -->
+    <skip />
+    <!-- no translation found for title_pref_keyboard_echo (860353418869467119) -->
+    <skip />
+    <!-- no translation found for summaryOn_pref_intonation (9077400986652228237) -->
+    <skip />
+    <!-- no translation found for summaryOff_pref_intonation (8702174746754615499) -->
+    <skip />
+    <!-- no translation found for title_pref_category_feedback_settings (1245161004109313841) -->
+    <skip />
+    <!-- no translation found for title_pref_vibration (3844312655168149890) -->
+    <skip />
+    <!-- no translation found for title_pref_soundback (4700299128916932277) -->
+    <skip />
+    <!-- no translation found for title_pref_use_audio_focus (3377176622565829045) -->
+    <skip />
+    <!-- no translation found for summary_pref_use_audio_focus (6384160228414065955) -->
+    <skip />
+    <!-- no translation found for title_pref_soundback_volume (7800640782909840723) -->
+    <skip />
+    <!-- no translation found for title_pref_category_miscellaneous_settings (4300919879277841983) -->
+    <skip />
+    <!-- no translation found for title_pref_category_developer_settings (6580150385309942699) -->
+    <skip />
+    <!-- no translation found for title_pref_log_level (1608733715034404715) -->
+    <skip />
+    <!-- no translation found for title_pref_tts_overlay (7821227047722471620) -->
+    <skip />
+    <!-- no translation found for title_pref_web_scripts (4384237853588668209) -->
+    <skip />
+    <!-- no translation found for summary_pref_web_scripts (5271359440699022407) -->
+    <skip />
+    <!-- no translation found for title_pref_resume_talkback (7672596366500481032) -->
+    <skip />
+    <!-- no translation found for axis_character (5059604520074645703) -->
+    <skip />
+    <!-- no translation found for axis_word (7745798763195184060) -->
+    <skip />
+    <!-- no translation found for axis_sentence (5569363499210008882) -->
+    <skip />
+    <!-- no translation found for axis_line (2210986915751668758) -->
+    <skip />
+    <!-- no translation found for axis_page (9146038615069235841) -->
+    <skip />
+    <!-- no translation found for axis_heading (8928386537164255063) -->
+    <skip />
+    <!-- no translation found for axis_sibling (7260754205862306385) -->
+    <skip />
+    <!-- no translation found for axis_document (1581988340856497809) -->
+    <skip />
+    <!-- no translation found for axis_default_web_view_behavior (4427026616802959980) -->
+    <skip />
+    <!-- no translation found for granularity_default (1492012550776943179) -->
+    <skip />
+    <!-- no translation found for granularity_character (4193116470272754377) -->
+    <skip />
+    <!-- no translation found for granularity_word (6605314874729471957) -->
+    <skip />
+    <!-- no translation found for granularity_line (1793187671583430921) -->
+    <skip />
+    <!-- no translation found for granularity_paragraph (679117001255664930) -->
+    <skip />
+    <!-- no translation found for granularity_page (6606518772023711853) -->
+    <skip />
+    <!-- no translation found for granularity_web_section (2970666819922742515) -->
+    <skip />
+    <!-- no translation found for granularity_web_list (2865126503773287493) -->
+    <skip />
+    <!-- no translation found for granularity_web_control (8614337019107379031) -->
+    <skip />
+    <!-- no translation found for granularity_pseudo_web_special_content (8235312346324504685) -->
+    <skip />
+    <!-- no translation found for orientation_portrait (5280362272647722922) -->
+    <skip />
+    <!-- no translation found for orientation_landscape (129313890178554132) -->
+    <skip />
+    <!-- no translation found for shortcut_unassigned (8631675444401168361) -->
+    <skip />
+    <!-- no translation found for shortcut_back (8404153155835310379) -->
+    <skip />
+    <!-- no translation found for shortcut_home (3905505999818649470) -->
+    <skip />
+    <!-- no translation found for shortcut_recents (7901137492524332991) -->
+    <skip />
+    <!-- no translation found for shortcut_notifications (7234767026975704922) -->
+    <skip />
+    <!-- no translation found for shortcut_talkback_breakout (568168492542718040) -->
+    <skip />
+    <!-- no translation found for shortcut_local_breakout (6177140532797600317) -->
+    <skip />
+    <!-- no translation found for shortcut_repeat_last_utterance (2063136654845335137) -->
+    <skip />
+    <!-- no translation found for shortcut_spell_last_utterance (106643257328883413) -->
+    <skip />
+    <!-- no translation found for shortcut_pause_feedback (1125364186583919621) -->
+    <skip />
+    <!-- no translation found for shortcut_read_from_top (2022846874992888639) -->
+    <skip />
+    <!-- no translation found for shortcut_read_from_current (5207148703245353791) -->
+    <skip />
+    <!-- no translation found for two_part_vertical_gestures_jump (786459931228477337) -->
+    <skip />
+    <!-- no translation found for two_part_vertical_gestures_cycle (7898335991188943683) -->
+    <skip />
+    <!-- no translation found for title_local_breakout_no_items (1550674209206752498) -->
+    <skip />
+    <!-- no translation found for title_web_controls (7406524994035322694) -->
+    <skip />
+    <!-- no translation found for title_web_breakout_next_section (5988697179364261514) -->
+    <skip />
+    <!-- no translation found for title_web_breakout_next_list (7718977609680126993) -->
+    <skip />
+    <!-- no translation found for title_web_breakout_next_control (2232647062212814971) -->
+    <skip />
+    <!-- no translation found for title_web_breakout_prev_section (5962027293396650880) -->
+    <skip />
+    <!-- no translation found for title_web_breakout_prev_list (324873118848501053) -->
+    <skip />
+    <!-- no translation found for title_web_breakout_prev_control (4941025100780529097) -->
+    <skip />
+    <!-- no translation found for title_edittext_controls (3244305133134056288) -->
+    <skip />
+    <!-- no translation found for title_edittext_breakout_move_to_beginning (8890923524547821086) -->
+    <skip />
+    <!-- no translation found for title_edittext_breakout_move_to_end (2374451054202604999) -->
+    <skip />
+    <!-- no translation found for title_edittext_breakout_cut (492145887958376608) -->
+    <skip />
+    <!-- no translation found for title_edittext_breakout_copy (5459984631508428704) -->
+    <skip />
+    <!-- no translation found for title_edittext_breakout_paste (7237616902064974298) -->
+    <skip />
+    <!-- no translation found for title_edittext_breakout_select_all (207908086353765396) -->
+    <skip />
+    <!-- no translation found for title_edittext_breakout_start_selection_mode (7089324238012221820) -->
+    <skip />
+    <!-- no translation found for title_edittext_breakout_end_selection_mode (4598173414473149328) -->
+    <skip />
+    <!-- no translation found for title_viewpager_controls (5445165716688066887) -->
+    <skip />
+    <!-- no translation found for title_viewpager_breakout_next_page (8569901339110496653) -->
+    <skip />
+    <!-- no translation found for title_viewpager_breakout_prev_page (628828561164930528) -->
+    <skip />
+    <!-- no translation found for title_labeling_controls (5329026809097946643) -->
+    <skip />
+    <!-- no translation found for title_summary (1892383897326964505) -->
+    <skip />
+    <!-- no translation found for title_granularity (8810561997342447201) -->
+    <skip />
+    <!-- no translation found for value_direction_down_and_left (1136254602001079211) -->
+    <skip />
+    <!-- no translation found for value_direction_down_and_right (140660680925482349) -->
+    <skip />
+    <!-- no translation found for value_direction_up_and_left (7249297190773068777) -->
+    <skip />
+    <!-- no translation found for value_direction_up_and_right (4554541402217255929) -->
+    <skip />
+    <!-- no translation found for value_direction_right_and_down (2454015754931124603) -->
+    <skip />
+    <!-- no translation found for value_direction_right_and_up (3852212966335840721) -->
+    <skip />
+    <!-- no translation found for value_direction_left_and_down (4588058477082880034) -->
+    <skip />
+    <!-- no translation found for value_direction_left_and_up (4226646383830488949) -->
+    <skip />
+    <!-- no translation found for title_pref_shortcut_down_and_left (5252410921504649704) -->
+    <skip />
+    <!-- no translation found for title_pref_shortcut_down_and_right (70468539039651273) -->
+    <skip />
+    <!-- no translation found for title_pref_shortcut_up_and_left (6488345551912922700) -->
+    <skip />
+    <!-- no translation found for title_pref_shortcut_up_and_right (8936164693273303141) -->
+    <skip />
+    <!-- no translation found for title_pref_shortcut_right_and_down (8367941430094918701) -->
+    <skip />
+    <!-- no translation found for title_pref_shortcut_right_and_up (3803984082758463130) -->
+    <skip />
+    <!-- no translation found for title_pref_shortcut_left_and_down (7133444152727902323) -->
+    <skip />
+    <!-- no translation found for title_pref_shortcut_left_and_up (2432229113065295801) -->
+    <skip />
+    <!-- no translation found for title_pref_two_part_vertical_gestures (3232021917181479854) -->
+    <skip />
+    <!-- no translation found for value_volume_100_percent (6676030754946177658) -->
+    <skip />
+    <!-- no translation found for value_volume_75_percent (7578844180160160971) -->
+    <skip />
+    <!-- no translation found for value_volume_50_percent (2830571913174435107) -->
+    <skip />
+    <!-- no translation found for value_volume_25_percent (4441038207089946938) -->
+    <skip />
+    <!-- no translation found for value_resume_screen_on (578384141075489503) -->
+    <skip />
+    <!-- no translation found for value_resume_keyguard (8491148490485472512) -->
+    <skip />
+    <!-- no translation found for value_resume_manual (3579426418356648756) -->
+    <skip />
+    <!-- no translation found for value_shake_to_read_disabled (7945430806615898289) -->
+    <skip />
+    <!-- no translation found for value_shake_to_read_threshold_very_light (8259101887571872418) -->
+    <skip />
+    <!-- no translation found for value_shake_to_read_threshold_light (4580119834253168964) -->
+    <skip />
+    <!-- no translation found for value_shake_to_read_threshold_medium (2529807635899614805) -->
+    <skip />
+    <!-- no translation found for value_shake_to_read_threshold_hard (7069014518326801700) -->
+    <skip />
+    <!-- no translation found for value_shake_to_read_threshold_very_hard (8601099072316359601) -->
+    <skip />
+    <!-- no translation found for value_keyboard_echo_always (6227871839200687680) -->
+    <skip />
+    <!-- no translation found for value_keyboard_echo_softkeys (6592352879887617590) -->
+    <skip />
+    <!-- no translation found for value_keyboard_echo_never (7272733066649438914) -->
+    <skip />
+    <!-- no translation found for title_talkback_settings_available (6764624676369520992) -->
+    <skip />
+    <!-- no translation found for message_talkback_settings_available (8705763859411459771) -->
+    <skip />
+    <!-- no translation found for notification_title_talkback_gestures_changed (8384253637363301938) -->
+    <skip />
+    <!-- no translation found for notification_message_talkback_gestures_changed (5639775622146513884) -->
+    <skip />
+    <!-- no translation found for notification_title_talkback_suspended (2185046615850691522) -->
+    <skip />
+    <!-- no translation found for notification_message_talkback_suspended (3312683762001713772) -->
+    <skip />
+    <!-- no translation found for dialog_title_suspend_talkback (452536442417893349) -->
+    <skip />
+    <!-- no translation found for dialog_message_suspend_talkback (7378497787526587410) -->
+    <skip />
+    <!-- no translation found for message_resume_manual (4491108398618252430) -->
+    <skip />
+    <!-- no translation found for message_resume_screen_on (2080032080971819102) -->
+    <skip />
+    <!-- no translation found for message_resume_keyguard (8347218053451487513) -->
+    <skip />
+    <!-- no translation found for show_suspend_warning_label (2767993698595859057) -->
+    <skip />
+    <!-- no translation found for label_dialog_title_add (5382481431231127704) -->
+    <skip />
+    <!-- no translation found for label_dialog_title_edit (4092558174381892707) -->
+    <skip />
+    <!-- no translation found for label_dialog_title_remove (3378715305025501902) -->
+    <skip />
+    <!-- no translation found for label_dialog_text (1215316331086955256) -->
+    <skip />
+    <!-- no translation found for label_remove_dialog_text (3934146603628571606) -->
+    <skip />
+    <!-- no translation found for label_remove_dialog_text_app_name (2384427835919655322) -->
+    <skip />
+    <!-- no translation found for label_dialog_edit_hint (1909934608642527277) -->
+    <skip />
+    <!-- no translation found for talkback_gesture_change_details (2919155220372343154) -->
+    <skip />
+    <!-- no translation found for talkback_built_in_gesture_change_details (1504489384911892122) -->
+    <skip />
+    <!-- no translation found for button_accept_changed_gesture_mappings (3709582843147387025) -->
+    <skip />
+    <!-- no translation found for button_customize_gesture_mappings (6198453024008558647) -->
+    <skip />
+    <!-- no translation found for dialog_title_disable_exploration (6318745977662978395) -->
+    <skip />
+    <!-- no translation found for dialog_message_disable_exploration (206632033549219529) -->
+    <skip />
+    <!-- no translation found for hint_script_injection (2973894305173271874) -->
+    <skip />
+    <!-- no translation found for label_talkback_context_menu (102441078934343795) -->
+    <skip />
+    <!-- no translation found for permission_talkback_label (7399199628843033396) -->
+    <skip />
+    <!-- no translation found for permission_talkback_desc (7998251777426211557) -->
+    <skip />
+    <!-- no translation found for permission_labeling_label (1480122506788515888) -->
+    <skip />
+    <!-- no translation found for permission_labeling_desc (2506887117365155231) -->
+    <skip />
+    <!-- no translation found for links (5674175288909957654) -->
+    <skip />
+    <!-- no translation found for end_of_text (4039485166364049724) -->
+    <skip />
+    <!-- no translation found for character_collapse_template (6127861834252515898) -->
+    <skip />
+</resources>

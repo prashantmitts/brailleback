@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="symbol_apostrophe" msgid="5346507079221500519">"ເຄື່ອງໝາຍອະໂພສໂທຣຟີ"</string>
+    <string name="symbol_ampersand" msgid="5698645694023845951">"ເຄື່ອງໝາຍແລະ"</string>
+    <string name="symbol_angle_bracket_left" msgid="4012332036420438751">"ວົງເລັບມຸມຊ້າຍ"</string>
+    <string name="symbol_angle_bracket_right" msgid="8089627029502892140">"ວົງເລັບມຸມຂວາ"</string>
+    <string name="symbol_asterisk" msgid="6899588751917310921">"ດອກຈັນ"</string>
+    <string name="symbol_at_sign" msgid="4119576952183181755">"ແອັດ"</string>
+    <string name="symbol_backslash" msgid="7724827547647422722">"ສະແລດກັບຫຼັງ"</string>
+    <string name="symbol_bullet" msgid="7202475090589298539">"ຈ້ຳ"</string>
+    <string name="symbol_caret" msgid="3701748999835671059">"ແຄເຣັດ"</string>
+    <string name="symbol_cent" msgid="837913106634164879">"ເຊັນ"</string>
+    <string name="symbol_colon" msgid="1766173490108112841">"ຈໍ້າສອງເມັດ"</string>
+    <string name="symbol_comma" msgid="7243221681903156668">"ຈຸດ"</string>
+    <string name="symbol_copyright" msgid="6068444819135113413">"ລິຂະສິດ"</string>
+    <string name="symbol_curly_bracket_left" msgid="8532637321657230438">"ວົງປີກກາຊ້າຍ"</string>
+    <string name="symbol_curly_bracket_right" msgid="6985489217737970385">"ວົງປີກກາຂວາ"</string>
+    <string name="symbol_degree" msgid="7006804982085051639">"ອົງສາ"</string>
+    <string name="symbol_division" msgid="4791397535826699505">"ເຄື່ອງໝາຍຫານ"</string>
+    <string name="symbol_dollar_sign" msgid="4816772894471123223">"ເຄື່ອງໝາຍເງິນໂດລາ"</string>
+    <string name="symbol_ellipsis" msgid="3891332472133850270">"ເຄື່ອງໝາຍສາມຈ້ຳ"</string>
+    <string name="symbol_em_dash" msgid="658543896507447622">"ຂີດຍາວ m"</string>
+    <string name="symbol_en_dash" msgid="234490117412068534">"ຂີດຍາວ n"</string>
+    <string name="symbol_euro" msgid="8754914286710071533">"ຢູໂຣ"</string>
+    <string name="symbol_exclamation_mark" msgid="1423755347958355783">"ຫມາຍທ້ວງ"</string>
+    <string name="symbol_grave_accent" msgid="6594493842492693387">"ເຄື່ອງໝາຍເນັ້ນສຽງ"</string>
+    <string name="symbol_hyphen_minus" msgid="1649545825116000516">"ຂີດ"</string>
+    <string name="symbol_low_double_quote" msgid="1677227578460338049">"ວົງຢືມຕ່ຳ"</string>
+    <string name="symbol_multiplication" msgid="596972035072689274">"ໝາຍຄູນ"</string>
+    <string name="symbol_new_line" msgid="7363881715875223224">"ເຄື່ອງໝາຍແຖວໃໝ່"</string>
+    <string name="symbol_paragraph_mark" msgid="6904765434705887290">"ເຄື່ອງຫມາຍວັກ"</string>
+    <string name="symbol_parenthesis_left" msgid="1458738253545330283">"ວົງເລັບຊ້າຍ"</string>
+    <string name="symbol_parenthesis_right" msgid="8912693050994297988">"ວົງເລັບຂວາ"</string>
+    <string name="symbol_percent" msgid="798679652539918927">"ເປີເຊັນ"</string>
+    <string name="symbol_period" msgid="5069898565390445839">"ຈ້ຳເມັດ"</string>
+    <string name="symbol_pi" msgid="6899622292494510231">"ປີ່"</string>
+    <string name="symbol_pound" msgid="1635411027540923886">"ປອນ"</string>
+    <string name="symbol_pound_sterling" msgid="6433746765884232219">"ເງິນປອນ"</string>
+    <string name="symbol_question_mark" msgid="1666021876560174073">"ຫມາຍຖາມ"</string>
+    <string name="symbol_quotation_mark" msgid="4210926032013869946">"ວົງຢືມ"</string>
+    <string name="symbol_registered_trademark" msgid="2461061529593236186">"ເຄື່ອງຫມາຍການຄ້າທີ່ຈົດທະບຽນ"</string>
+    <string name="symbol_semicolon" msgid="1433521326404786767">"ຈ້ຳຈຸດ"</string>
+    <string name="symbol_slash" msgid="3965129865291400067">"ສະແລດ"</string>
+    <string name="symbol_smiley" msgid="747615636574539315">"ໜ້າຍິ້ມ"</string>
+    <string name="symbol_space" msgid="5943066533922386082">"ຍະຫວ່າງ"</string>
+    <string name="symbol_square_bracket_left" msgid="4651446946636041863">"ວົງຂໍຊ້າຍ"</string>
+    <string name="symbol_square_bracket_right" msgid="4383765695828692950">"ວົງຂໍຂວາ"</string>
+    <string name="symbol_square_root" msgid="2765967632052613827">"ຮາກ"</string>
+    <string name="symbol_trademark" msgid="7855500032009132790">"ເຄື່ອງຫມາຍການຄ້າ"</string>
+    <string name="symbol_underscore" msgid="4704253128574141726">"ຂີດເສັ້ນໃຕ້"</string>
+    <string name="symbol_vertical_bar" msgid="1048988153298679308">"ແທ່ງຕັ້ງ"</string>
+    <string name="symbol_yen" msgid="3603544638369460075">"ເຢນ"</string>
+    <string name="symbol_not_sign" msgid="1705947242583463656">"ເຄື່ອງໝາຍຫ້າມ"</string>
+    <string name="symbol_broken_bar" msgid="1777821269046780826">"ເສັ້ນຕັ້ງທີ່ມີຊ່ອງທາງກາງ"</string>
+    <string name="symbol_micro_sign" msgid="647089591706610860">"ສັນຍາລັກໄມໂຄຣ"</string>
+    <string name="symbol_almost_equals" msgid="1653570364882667595">"ປະມານ"</string>
+    <string name="symbol_not_equals" msgid="4969533365479104300">"ບໍ່ເທົ່າກັບ"</string>
+    <string name="symbol_currency_sign" msgid="7144446821437630777">"ເຄື່ອງໝາຍສະກຸນເງິນ"</string>
+    <string name="symbol_section_sign" msgid="5046720536230643125">"ເຄື່ອງໝາຍໝວດ"</string>
+    <string name="symbol_upwards_arrow" msgid="6902164954804994511">"ລູກສອນຂຶ້ນ"</string>
+    <string name="symbol_leftwards_arrow" msgid="7090590636020442062">"ລູກສອນຊ້າຍ"</string>
+</resources>

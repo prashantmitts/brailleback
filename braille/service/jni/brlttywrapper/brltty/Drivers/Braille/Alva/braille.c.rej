@@ -1,0 +1,45 @@
+--- brltty/Drivers/Braille/Alva/braille.c	2013-04-25 14:27:31.000000000 -0700
++++ brltty/Drivers/Braille/Alva/braille.c	2013-10-17 08:26:29.000000000 -0700
+@@ -307,6 +307,7 @@
+ static const ModelEntry *model;		/* points to terminal model config struct */
+ 
+ #define MOD_FLAG_CONFIGURABLE 0X01
++#define MOD_FLAG_SEMI_PARTIAL_UPDATES 0X02
+ 
+ static const ModelEntry modelTable[] = {
+   { .identifier = 0X00,
+@@ -435,6 +436,8 @@
+   .identifier = 0X40,
+   .name = "BC640",
+   .columns = 40,
++  /* EasyLink 12 touch doesn't support writes that start at offsets > 0. */
++  .flags = MOD_FLAG_SEMI_PARTIAL_UPDATES,
+   .keyTableDefinition = &KEY_TABLE_DEFINITION(bc)
+ };
+ 
+@@ -1145,7 +1148,7 @@
+ static int
+ askDevice2s (unsigned char command, unsigned char *response, int size) {
+   if (tellDevice2s(command, 0X3F)) {
+-    while (io->awaitInput(200)) {
++    while (io->awaitInput(600)) {
+       int length = protocol->readPacket(response, size);
+       if (length <= 0) break;
+       if ((response[0] == ESC) && (response[1] == command)) return 1;
+@@ -1657,7 +1660,7 @@
+ 
+ static int
+ readBluetoothBytes (unsigned char *buffer, int length, int wait) {
+-  const int timeout = 100;
++  const int timeout = 200;
+   return bthReadData(bluetoothConnection, buffer, length,
+                      (wait? timeout: 0), timeout);
+ }
+@@ -1762,6 +1765,7 @@
+   }
+ 
+   if (cellsHaveChanged(previousText, brl->buffer, brl->textColumns, &from, &to, &textRewriteRequired)) {
++    if (model->flags & MOD_FLAG_SEMI_PARTIAL_UPDATES) from = 0;
+     size_t count = to - from;
+     unsigned char cells[count];
+ 

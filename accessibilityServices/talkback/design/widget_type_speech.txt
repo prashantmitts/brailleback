@@ -1,0 +1,7 @@
+Our strategy for deciding when to speak the type of widget that receives focus is as follows.  Adhering to this design will ensure consistency across the speech generated from focusing various Android widgets.
+
+When a view receives focus, we compute whether we believe it to be actionable based on the set of accessibility actions it supports.  If the widget is actionable, we append the type of the widget or similar information to describe its use.  If the widget is non-actionable, we simply speak the widget's text content.  The only exception to this rule is the case where the textual content included in the view's representation is not sufficient to provide reasonable feedback, in which case we may speak more identifying information, such as in RuleNonTextViews.java.
+
+The relevant logic backing this design is located in:
+ - The subclasses of RuleDefault in the com.google.android.marvin.talkback.speechrules package
+ - The speech rule XML files stored in res/raw

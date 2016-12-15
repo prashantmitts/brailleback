@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="template_change_search_category" msgid="5128415851194056980">"ប្ដូរ​ប្រភេទ​ស្វែងរក"</string>
+    <string name="template_search_box" msgid="7674310082251778508">"ប្រអប់​ស្វែងរក"</string>
+    <string name="template_voice_search" msgid="6344082494914081067">"ស្វែងរក​តាម​សំឡេង"</string>
+    <string name="template_dragging_icon" msgid="856607323610801888">"អូស​រូបតំណាង <xliff:g id="TITLE">%1$s</xliff:g> ។"</string>
+    <string name="value_increment_hours" msgid="3948602939148321286">"បង្កើន​ម៉ោង​។"</string>
+    <string name="value_increment_minutes" msgid="7973429691186941970">"បង្កើន​នាទី​។"</string>
+    <string name="value_decrement_hours" msgid="1185897832058708910">"បន្ថយ​ម៉ោង​។"</string>
+    <string name="value_decrement_minutes" msgid="1675671130873460387">"បន្ថយ​នាទី​។"</string>
+    <string name="value_increment_month" msgid="2108075360629168256">"បង្កើន​ខែ​។"</string>
+    <string name="value_increment_day" msgid="774372627775704794">"បង្កើន​ថ្ងៃ​។"</string>
+    <string name="value_increment_year" msgid="9076324867468561268">"បង្កើន​ឆ្នាំ​។"</string>
+    <string name="value_decrement_month" msgid="6268533926259338764">"បន្ថយ​ខែ​។"</string>
+    <string name="value_decrement_day" msgid="5715832708435309689">"បន្ថយ​ថ្ងៃ​។"</string>
+    <string name="value_decrement_year" msgid="756084611736232559">"បន្ថយ​ឆ្នាំ​។"</string>
+    <string name="template_stream_volume" msgid="7768533936282059501">"<xliff:g id="STREAM_NAME">%1$s</xliff:g> ភាគ <xliff:g id="PERCENT">%2$d</xliff:g> ភាគ​រយ​។"</string>
+    <string name="template_stream_volume_set" msgid="5961200256130745221">"<xliff:g id="STREAM_NAME">%1$s</xliff:g> បាន​កំណត់​ភាគ <xliff:g id="PERCENT">%2$d</xliff:g> ភាគរយ។"</string>
+    <string name="value_stream_master" msgid="6130733378374740098">"មេ"</string>
+    <string name="value_stream_voice_call" msgid="5305385298856357591">"ការ​ហៅ​ទូរស័ព្ទ"</string>
+    <string name="value_stream_system" msgid="3108718602352746749">"សំឡេង​ប្រព័ន្ធ"</string>
+    <string name="value_stream_ring" msgid="426689477101897215">"សំឡេង​រោទ៍"</string>
+    <string name="value_stream_music" msgid="2420531377342647139">"តន្ត្រី"</string>
+    <string name="value_stream_alarm" msgid="8999482549602611898">"រោទ៍"</string>
+    <string name="value_stream_notification" msgid="4097029371092384177">"ការ​ជូន​ដំណឹង"</string>
+    <string name="value_stream_dtmf" msgid="7153448300406120426">"សំឡេង​ពេល​ចុច"</string>
+    <string name="template_announce_day" msgid="7569505051538976673">"<xliff:g id="DATE">%1$s</xliff:g>, ទិដ្ឋភាព​ថ្ងៃ។"</string>
+    <string name="template_announce_week" msgid="7352408378283364662">"<xliff:g id="FROM_DATE">%1$s</xliff:g> ដល់ <xliff:g id="TO_DATE">%2$s</xliff:g>, ទិដ្ឋភាព​សប្ដាហ៍។"</string>
+    <string name="template_announce_month" msgid="8166818109821067151">"<xliff:g id="MONTH">%1$s</xliff:g>, ទិដ្ឋភាព​ខែ។"</string>
+    <string name="template_announce_item_index" msgid="5779512033130164015">"<xliff:g id="ITEM_INDEX">%1$s</xliff:g> នៃ <xliff:g id="ITEM_COUNT">%2$s</xliff:g>"</string>
+    <string name="value_owner" msgid="2356511106039974687">"ម្ចាស់"</string>
+  <plurals name="plural_event">
+    <item quantity="one" msgid="3277201357577016902">"ព្រឹត្តិការណ៍"</item>
+    <item quantity="other" msgid="40630539017439">"ព្រឹត្តិការណ៍"</item>
+  </plurals>
+    <string name="value_status_bar_opened" msgid="5815609260958160739">"បាន​បើក​របារ​ស្ថានភាព"</string>
+    <string name="value_googletv_screen_saver" msgid="4641188128529437451">"ធាតុ​រក្សា​អេក្រង់"</string>
+</resources>

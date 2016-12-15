@@ -1,0 +1,63 @@
+{
+  "tables": [
+    "unicode.dis", 
+    "ta-ta-g1.ctb"
+  ], 
+  "tests": [
+    {
+      "data": [
+        {
+          "input": "இ", 
+          "output": "⠊"
+        }, 
+        {
+          "input": "ப", 
+          "output": "⠏"
+        }, 
+        {
+          "input": "பி", 
+          "output": "⠏⠊"
+        }, 
+        {
+          "input": "க்", 
+          "output": "⠈⠅"
+        }, 
+        {
+          "input": " ஸ்ரீ ", 
+          "output": " ⠎ "
+        }, 
+        {
+          "input": "பஸ்ரீ", 
+          "output": "⠏⠈⠎⠗⠔"
+        }, 
+        {
+          "input": " க்ஷ ", 
+          "output": " ⠟ "
+        }, 
+        {
+          "input": "க்ஷ்.", 
+          "output": "⠈⠟⠲"
+        }, 
+        {
+          "input": "“", 
+          "output": "⠠⠦"
+        }, 
+        {
+          "input": "”", 
+          "output": "⠴⠄"
+        }, 
+        {
+          "input": "‘", 
+          "output": "⠦"
+        }, 
+        {
+          "input": "’", 
+          "output": "⠴"
+        }
+      ], 
+      "flags": {
+        "outputUniBrl": true
+      }
+    }
+  ]
+}

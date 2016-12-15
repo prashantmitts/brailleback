@@ -1,0 +1,33 @@
+# This file is a text proto using the definition here:
+# https://cs.corp.google.com/#google3/devtools/metadata/presubmit.proto
+#
+# For more information, visit go/google3metadata.
+
+presubmit: {
+  check_tests: {
+    project: "brailleback"
+    project: "chromevox"
+
+    action: REVIEW
+    failure_status: WARNING
+  }
+}
+
+presubmit: {
+  check_tests: {
+    project: "brailleback"
+    project: "chromevox"
+
+    action: SUBMIT
+    failure_status: ERROR
+  }
+}
+
+# Checks for "do not submit" (all caps) in CL description and files.
+presubmit: {
+  check_do_not_submit: {
+    action: SUBMIT
+    failure_status: ERROR
+    scope: DESCRIPTION_AND_FILES
+  }
+}

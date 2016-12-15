@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title_pref_tutorial" msgid="3245369379022519951">"启动“触摸浏览”教程"</string>
+    <string name="accessibility_tutorial_title" msgid="3604139189214645351">"辅助功能教程"</string>
+    <string name="accessibility_tutorial_next" msgid="5403131568391761625">"下一课"</string>
+    <string name="accessibility_tutorial_back" msgid="7953265962480572962">"上一课"</string>
+    <string name="accessibility_tutorial_finish" msgid="8651842380314324443">"完成"</string>
+    <string name="accessibility_tutorial_skip" msgid="4635703249458449485">"退出"</string>
+    <string name="accessibility_tutorial_touch_disabled" msgid="1947871282831171107">"教程发声时触摸功能暂时停用"</string>
+    <string name="accessibility_tutorial_lesson_1_title" msgid="8913174159810078422">"第 1 课：浏览屏幕"</string>
+    <string name="accessibility_tutorial_lesson_1_text_1" msgid="6281024124325477313">"打开“触摸浏览”功能后，您可以触摸屏幕以了解手指触摸处的组件。例如，当前屏幕中包含应用图标，您可以触摸屏幕，然后随意滑动手指，找出其中某个应用。"</string>
+    <string name="accessibility_tutorial_lesson_1_text_2_more" msgid="7154137274310772436">"做得不错！请继续在屏幕上随意滑动您的手指，至少再找到一个图标。"</string>
+    <string name="accessibility_tutorial_lesson_1_text_3" msgid="5866504456242703872">"您还可以在屏幕上的任意位置左右滑动手指进行浏览。请尝试从左向右快速滑动来移动到下一个图标。"</string>
+    <string name="accessibility_tutorial_lesson_1_text_4" msgid="56981537955090208">"要激活您浏览到的内容，请点按屏幕两次。请继续浏览并找到<xliff:g id="APP_NAME">%1$s</xliff:g>图标，然后在屏幕上的任意位置点按两次以将其激活。"</string>
+    <string name="accessibility_tutorial_lesson_1_text_5" msgid="1208294090974872449">"您找到了<xliff:g id="APP_NAME">%1$s</xliff:g>图标。请在屏幕上的任意位置点按两次以将其激活。"</string>
+    <string name="accessibility_tutorial_lesson_1_text_5_exited" msgid="8862005898053070331">"您浏览时经过了<xliff:g id="APP_NAME_0">%1$s</xliff:g>图标。请尝试浏览屏幕并再次找到<xliff:g id="APP_NAME_1">%1$s</xliff:g>图标。"</string>
+    <string name="accessibility_tutorial_lesson_1_text_6" msgid="4094982888777210681">"要开始学习下一课，请找到“<xliff:g id="NEXT">%1$s</xliff:g>”按钮（位于屏幕右下角附近），并触摸两次将其激活。"</string>
+    <string name="accessibility_tutorial_lesson_2_title" msgid="8237242914117751937">"第 2 课：滚动列表"</string>
+    <string name="accessibility_tutorial_lesson_2_text_1" msgid="3701529365516687824">"要滚动浏览列表，您可以沿着屏幕滑动两根手指。例如，当前屏幕包含了一个应用名称列表，可供您上下滚动浏览。请先试着浏览屏幕并找出一个应用。"</string>
+    <string name="accessibility_tutorial_lesson_2_text_2" msgid="6798295786754555066">"现在，请将两根手指放到某个列表项上，并同时向上滑动两根手指。如果到达屏幕顶端，请移开手指，并将手指放在列表中的下方位置，然后继续向上滑动。"</string>
+    <string name="accessibility_tutorial_lesson_2_text_3" msgid="3159628036244792602">"请浏览屏幕并再找到一个应用。"</string>
+    <string name="accessibility_tutorial_lesson_2_text_4" msgid="8714551968743323879">"您也可以通过滑动手指来滚动整个页面。要滚动到下一页，请使用先向右再向左滑动的组合手势。请尝试通过先向右再向左滑动来滚动到下一页。"</string>
+    <string name="accessibility_tutorial_lesson_2_text_5" msgid="8943035012040524546">"请再次浏览屏幕并在当前页面上找到一个应用。"</string>
+    <string name="accessibility_tutorial_lesson_2_text_6" msgid="6541093467485133324">"反方向滑动（即先向左再向右滑动的组合手势）即可移动到上一页。请尝试通过先向左再向右滑动来滚动到上一页。"</string>
+    <string name="accessibility_tutorial_lesson_2_text_7" msgid="3684610203615874623">"要开始学习下一课，请找到屏幕右下角的<xliff:g id="NEXT">%1$s</xliff:g>按钮，并点按两次将其激活。"</string>
+    <string name="accessibility_tutorial_lesson_3_title" msgid="6024010587544294119">"第3课：上下文菜单"</string>
+    <string name="accessibility_tutorial_lesson_3_text_1" msgid="9044343256290855911">"话语提示有全局上下文菜单和本地上下文菜单这两种上下文菜单，方便用户轻松找到各种设置和控件。您可以用手指沿菜单项所组成的圆圈滑动，然后在听到相关项的语音反馈后松开手指，从而激活相应菜单项。要尝试打开全局上下文菜单，请<xliff:g id="GLOBAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>滑动手指，滑动过程中不要中断。"</string>
+    <string name="accessibility_tutorial_lesson_3_text_2" msgid="5215263111579070328">"全局上下文菜单包含各项话语提示通用命令。您可以尝试让系统朗读屏幕上的所有文字，具体操作如下：按屏幕中央以便在手指周围打开圆形菜单，然后沿着由选项组成的圆圈滑动手指，直至听到<xliff:g id="READ_FROM_TOP_ITEM_TEXT">%1$s</xliff:g>。"</string>
+    <string name="accessibility_tutorial_lesson_3_text_3_hidden" msgid="8766520681673257029">"您已关闭全局上下文菜单。要尝试重新打开全局上下文菜单，请<xliff:g id="GLOBAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>滑动手指，滑动过程中不要中断。"</string>
+    <string name="accessibility_tutorial_lesson_3_text_3" msgid="2904044424555349808">"很好！上述命令可让系统朗读屏幕上的所有项。除了全局上下文菜单外，话语提示还提供了本地上下文菜单，其中的控件会根据您在屏幕上选择的项而变化。要尝试打开本地上下文菜单，请<xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>滑动手指，滑动过程中不要中断。"</string>
+    <string name="accessibility_tutorial_lesson_3_text_4" msgid="2111031135741866859">"用手指按住屏幕中央然后再松开，即可取消并关闭菜单。现在请尝试关闭本地上下文菜单。"</string>
+    <string name="accessibility_tutorial_lesson_3_text_5" msgid="1433387654169429731">"现在您已了解如何打开并浏览上下文菜单。在下一课中，您将详细了解何时使用上下文菜单。要继续学习，请找到并激活屏幕右下角的<xliff:g id="NEXT">%1$s</xliff:g>按钮。"</string>
+    <string name="accessibility_tutorial_lesson_4_title" msgid="3898999689844982160">"第4课：朗读单位"</string>
+    <string name="accessibility_tutorial_lesson_4_text_1" msgid="9109984626149104730">"话语提示可让您控制朗读单位，方便您以不同方式浏览文字。例如，您可以让系统逐段朗读文字，也可以让其逐字朗读，甚至按字符朗读。要开始使用，请找到屏幕中央的文字框以朗读其中的内容。"</string>
+    <string name="accessibility_tutorial_lesson_4_text_2" msgid="8061829788850239030">"聚焦于某项内容可让系统以默认单位来朗读其中的所有文字。您可以更改朗读单位，让系统一次只朗读这段文字中的一个字符。例如，如果您想拼读姓名或电子邮件地址，这么做就可能很有帮助。首先，请<xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>滑动手指，以便打开本地上下文菜单。"</string>
+    <string name="accessibility_tutorial_lesson_4_text_3_focus_lost" msgid="8713408442068375091">"您已离开目标文字框。尝试点按屏幕中央即可回到该文字框。"</string>
+    <string name="accessibility_tutorial_lesson_4_text_3" msgid="5978230561116221609">"很好！现在，请围绕菜单滑动手指，直到听到<xliff:g id="CHARACTER_GRANULARITY">%1$s</xliff:g>，然后，即可选择该项。"</string>
+    <string name="accessibility_tutorial_lesson_4_text_4_menu_hidden" msgid="879065229665819294">"您已关闭本地上下文菜单，但尚未将朗读单位更改为<xliff:g id="CHARACTER_GRANULARITY">%1$s</xliff:g>。要重新打开本地上下文菜单，请<xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%2$s</xliff:g>滑动手指。"</string>
+    <string name="accessibility_tutorial_lesson_4_text_4" msgid="2648520368832903832">"很好！现在您正以字符为朗读单位浏览文字。从屏幕顶部向底部滑动手指即可让系统朗读下一个字符。请尝试从屏幕顶部向底部滑动手指3次，让系统朗读这段文字中接下来的3个字符。"</string>
+    <string name="accessibility_tutorial_lesson_4_text_5_granularity_changed" msgid="124123881203918192">"您已更改朗读单位（不再是<xliff:g id="CHARACTER_GRANULARITY_0">%1$s</xliff:g>）。您可以在本地上下文菜单中将朗读单位改回<xliff:g id="CHARACTER_GRANULARITY_1">%1$s</xliff:g>，只需<xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%2$s</xliff:g>滑动手指即可，滑动过程中不要中断。"</string>
+    <string name="accessibility_tutorial_lesson_4_text_5_next" msgid="3704738796332255150">"现在您已了解如何更改朗读单位以及如何朗读文字。要继续，请激活屏幕右下角的<xliff:g id="NEXT">%1$s</xliff:g>按钮。"</string>
+    <string name="accessibility_tutorial_lesson_4_text_5_finish" msgid="1105011845460095430">"现在您已了解如何更改朗读单位以及如何朗读文字。话语提示教程到此结束。要退出教程，请找到并激活屏幕右下角的<xliff:g id="FINISH">%1$s</xliff:g>按钮。"</string>
+    <string name="accessibility_tutorial_lesson_4_text_view_text" msgid="6855162251486030701">"以下是一些示例文字，您可以让系统以不同单位朗读这些文字。"</string>
+    <string name="accessibility_tutorial_lesson_5_title" msgid="8613456449816489894">"第 5 课：修改文字"</string>
+    <string name="accessibility_tutorial_lesson_5_text_1" msgid="3546446192289638847">"本课程将介绍如何借助话语提示修改一段文字。首先，请找到屏幕中央的文本框。"</string>
+    <string name="accessibility_tutorial_lesson_5_text_2" msgid="8657622876258666475">"选中可修改的文本字段后，在屏幕任意位置点按两次即可打开键盘，然后就可以开始修改文字了。现在请试着点按两次屏幕。"</string>
+    <string name="accessibility_tutorial_lesson_5_text_3" msgid="3380647467066087130">"字段中已有一些文字。您可以将光标从本地上下文菜单移至文字开头。请<xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>滑动手指，滑动过程中不要中断，然后依次激活<xliff:g id="CURSOR_CONTROL">%2$s</xliff:g>和<xliff:g id="MOVE_CURSOR_TO_BEGINNING">%3$s</xliff:g>。"</string>
+    <string name="accessibility_tutorial_lesson_5_text_4" msgid="8558884036003156069">"修改文字时，从本地上下文菜单中选择适当的朗读单位会有所帮助。请<xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>滑动手指，滑动过程中不要中断，然后依次激活<xliff:g id="CHANGE_GRANULARITY">%2$s</xliff:g>和<xliff:g id="WORD_GRANULARITY">%3$s</xliff:g>。"</string>
+    <string name="accessibility_tutorial_lesson_5_text_5" msgid="1428643548218176340">"很好！现在，请从上往下滑动手指，逐字浏览文字。继续从上往下滑动手指，直到浏览完所有文字为止。"</string>
+    <string name="accessibility_tutorial_lesson_5_text_6" msgid="7272393741816463439">"修改文字时，您也可以使用设备上的音量键浏览文字，而非滑动手指。此外，话语提示还提供了文字选择功能，您可以使用本地上下文菜单选择文本框中的所有文字。请<xliff:g id="LOCAL_CONTEXT_MENU_GESTURE_DIRECTION">%1$s</xliff:g>滑动手指，滑动过程中不要中断，然后依次激活<xliff:g id="CURSOR_CONTROL">%2$s</xliff:g>和<xliff:g id="SELECT_ALL">%3$s</xliff:g>。"</string>
+    <string name="accessibility_tutorial_lesson_5_text_7" msgid="8890219138239550872">"很好！您已选择所有文字。如果您想更好地控制选择的内容，可以从本地上下文菜单中激活选择模式。修改文字时，您可以使用屏幕上的键盘输入文字，具体方法是在键盘周围滑动手指，并在听到系统读出所需的键后松开手指。请试着输入一些文字来替换所选文字。"</string>
+    <string name="accessibility_tutorial_lesson_5_text_8" msgid="9077661742567966303">"修改完文字后，您可以关闭键盘。请滑动手指，直至找到完成按钮，然后松开手指即可将其激活。话语提示教程到此结束。要退出教程，请找到并激活屏幕右下角的<xliff:g id="FINISH">%1$s</xliff:g>按钮。"</string>
+    <string name="accessibility_tutorial_lesson_5_editable_text" msgid="3537304203610851169">"示例文字"</string>
+    <string name="accessibility_tutorial_alert_dialog_exit" msgid="6604033839776950241">"退出"</string>
+    <string name="accessibility_tutorial_service_inactive_title" msgid="5640949274947370358">"需要启用触摸浏览"</string>
+    <string name="accessibility_tutorial_service_inactive_message" msgid="1808749405557397970">"您必须借助触摸浏览功能才能体验此教程。请先打开话语提示并启用触摸浏览，然后再启动此教程。"</string>
+    <string name="accessibility_tutorial_service_suspended_title" msgid="7163740223497398638">"话语提示已暂停"</string>
+    <string name="accessibility_tutorial_service_suspended_message" msgid="5633367032537299661">"语音反馈功能已暂停，因此无法体验话语提示教程。要继续进行，请恢复话语提示语音反馈功能，然后重新启动该教程。"</string>
+    <string name="accessibility_tutorial_missing_assignment_title" msgid="5676431029357436455">"尚未指定手势"</string>
+    <string name="accessibility_tutorial_missing_assignment_message" msgid="2845312981319504607">"您尚未指定<xliff:g id="ACTION">%1$s</xliff:g>操作的手势。请访问话语提示设置，为此操作设置快捷手势，然后重新启动话语提示教程。"</string>
+</resources>

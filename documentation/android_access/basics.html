@@ -1,0 +1,248 @@
+<!-- Copyright 2010 Google Inc.
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+ 
+       http://www.apache.org/licenses/LICENSE-2.0
+ 
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License. -->
+
+<html>
+<head>
+<title>Accessibility basics - Android Accessibility</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<div id="main_body">
+
+<h1>Accessibility Basics</h1>
+
+<div class="nav">
+<div class="nav_back"><a href="enabling.html">Previous: Enabling
+accessibility</a></div>
+<div class="nav_up"><a href="index.html">Up: Android Accessibility</a></div>
+<div class="nav_next"><a href="services.html">Next: Accessibility
+Services</a></div>
+</div>
+
+<p>Once you've enabled accessibility, you can start using your phone. This
+section describes some of the most common ways to interact with your device
+and explains some vocabulary.</p>
+
+<h2>Explore by touch</h2>
+
+<p>On devices running Android 4.0 and higher, you can touch your device's
+screen to hear the content under your finger spoken aloud. To activate an item,
+for example to click a button, tap the screen once after exploring the item.
+Or, to activate an item without exploring it first, simply double-tap the
+item.</p>
+
+<h3>Scrolling</h3>
+
+<p>When you explore content that extends beyond the screen and can be scrolled,
+your device will beep with a rising tone. To scroll content, place two fingers
+on the screen and move your fingers up or down. You will head ascending or
+descending tones as you scroll the list to let you know your relative position
+within the list. If you pause after scrolling a list, you will head a spoken
+description of your absolute position within the list.</p>
+
+<h2>Directional Pad Navigation</h2>
+
+<p>On devices with a hardware d-pad or arrow keys, you can typically navigate
+without needing to use the touch screen. This navigation is available to all
+users and does not require Accessibility to be enabled. Enabling Accessibility
+will provide you with speech feedback to assist in navigation if you cannot see
+the screen.</p>
+<p>The type of directional controller varies by phone, but many phones have
+one of the following: a clickable trackball, arrow keys, or a directional pad.
+On phones without any hardware directional controls, you can download the
+Eyes-Free Keyboard from Android Market to obtain an on-screen directional pad.
+All of these controllers allow you to move in 4 directions, and click to
+select items on the screen. Depending on what accessibility applications
+you've enabled, you'll get speech, sound, and haptic (vibrational) feedback to
+tell you what you've selected and what's happening on your phone.</p>
+<p>There are three other keys that you will use frequently. Make sure you
+know where these keys are on your phone:</p>
+
+<ul>
+
+  <li>The <strong>Home</strong> button will take you to the home screen,
+  where you can launch applications, check notifications, and much more. While
+  Android comes with a home screen that's reasonably accessible, you can
+  download alternative apps to use as your home screen including one designed
+  specifically for eyes-free use. See <a href="customizing.html"> the section
+  on customizing</a> for more details. In addition, if you press and hold
+  (long press) the Home key, it will bring up a window with shortcuts to
+  recently opened apps.</li>
+
+  <li>The <strong>Back</strong> button will take you back to the previous
+  screen, whether in the same app or a different app. As an example, if you're
+  reading an email, pressing Back might take you to your Inbox, pressing Back
+  again might take you to your list of mailboxes, and pressing Back yet again
+  might take you to your home screen. You can use Back to close most dialogs or
+  exit most screens that are causing you problems.</li>
+
+  <li>The <strong>Menu</strong> button opens a menu specific to the current
+  screen. Quite a bit of Android functionality which relies on the touch screen
+  is also accessible through the menu button, so be sure to check for it.
+  Menus are usually two-dimensional, so use the arrows to move up, down, left
+  and right to find all of the options in the menu, and click one if you want.
+  To close a menu, press Back.</li>
+</ul>
+
+<h3>Long Press</h3>
+<p>An important navigation mechanism in Android is called a <strong>long
+press</strong>. You perform a long press by pressing and holding down a
+physical key or touch (capacitive) button. If the long press is successful, the
+phone will provide some physical feedback such as vibration, and the long press
+action will take place.</p>
+
+<p>You can use a long press to open menus that are specific to the active
+item - think of it like opening a context menu on a PC. For example, performing a long press on a song in the Music player application in
+Android 2.2 will open a menu that allows you to add or remove it from a
+playlist. To perform a long press that opens a context menu, press and hold the
+select key or the trackball.</p>
+
+<p>As described earlier, you can long press the Home key to bring up
+a window with shortcuts to recent apps. Long pressing the Search key will
+activate Voice Search.</p>
+
+<h2>The home screen</h2>
+
+<h3>Settings</h3>
+The Android settings are available as a menu option on the home screen
+(accessed by pressing the menu button while on the home screen). There
+are many configuration options available here. The following are accessibility
+related options:
+
+<ul>
+  <li><strong>Accessibility</strong> Used to enable and disable basic
+  accessibility settings. See <a href="enabling.html">the enabling
+  accessibility section</a> for details.
+  </li>
+
+  <li><strong>Language &amp; input</strong> (Android 4.0 and higher) or
+  <strong>Voice Input &amp; Output</strong> controls global
+  text-to-speech settings, including speech rate and language.</li>
+
+  <li><strong>Sound (or Sound &amp; display)</strong> Configure sounds and
+  vibrations (haptic feedback).</li>
+
+</ul>
+
+<h3>Notifications</h3>
+<p>Notifications are the primary way Android communicates messages to you
+without interrupting what you are currently doing. For example, a notification
+might tell you that you have new mail, a new text message, or a low battery
+warning. Any app can post a notification.</p>
+
+<p>When you have TalkBack or another accessibility service running, it will
+speak the notification when it first appears. Additionally, at any point in
+time you can open the notifications panel from the home screen menu option to
+review all of your notifications. Most notifications are clickable - when
+clicked they will take you directly to the message or application in question
+or tell you more information about the warning.</p>
+
+<h3>Application launcher</h3>
+<p>An important function of the home screen is provide access to installed
+applications. From the home screen, select "All Applications". This will open
+a screen with a list of all installed applications.</p>
+<p>Note that this view is two-dimensional, with four apps per row. In order
+to find all of your apps, you'll need to explore all four apps in each
+horizontal row. If you find this annoying, you can install an alternate home
+screen or app launcher, such as the Eyes-Free shell. See <a
+  href="customizing.html">the section on customizing</a> for more details.</p>
+
+<h2>The Lock Screen</h2>
+
+<p>When the phone goes to sleep, the screen is automatically locked. This means
+that the screen is off and the phone doesn't accept user input. Depending
+on your display settings, your screen might go to sleep after a specified
+timeout, and soon afterward the phone will lock. You can also force your
+screen to turn off and the phone to lock by pressing the power button.
+
+By default, once your screen is locked, accessibility services such as
+TalkBack will not give you feedback. This preference may be changed in your
+screen reader's settings page.</p>
+
+<p>Unlocking a phone requires two steps: you need to turn on the screen,
+and then unlock the phone. In order to turn on the screen, you need to push
+the power button (on some phone models such as the Droid, the enter key
+will also turn on the screen).</p>
+
+<p>Once the screen is on, unlocking the phone usually requires a touch screen
+gesture, but this may vary depending on manufacturer customizations. To perform
+the gesture on a standard Android phone:</p>
+<ol>
+  <li>Hold the screen in portrait mode.</li>
+  <li>Press your finger on the lower left side of the screen. If you have
+  KickBack enabled, you should get a quick vibration when you are in the correct
+  place.</li>
+  <li>Swipe your finger all the way across the screen to the right. With
+  KickBack, you will get another haptic vibration when the phone successfully
+  unlocks.</li>
+</ol>
+<p>To practice this gesture, press the power button to turn the screen off
+and lock the phone - TalkBack will say "Screen Off". Press the power button a
+second time to turn the screen back on. It will now be waiting for you to unlock it.</p>
+<p>You can also mute the ringer volume from the lock screen. To mute the ringer
+volume, perform the unlocking gesture but swipe from right to left instead of
+from left to right. Please note that muting the ringer volume will not mute
+speech feedback for accessibility.</p>
+<p>If you don't like having to swipe to unlock your phone, you can disable
+this behavior or choose a different unlocking strategy. See <a
+  href="customizing.html">the section on customizing</a> for more details.</p>
+
+<h2>Phone calls</h2>
+
+<p>To answer a phone call on most phones, you must swipe from left to right,
+just like the unlocking gesture described above. To decline a call, press
+the power button or perform the unlocking gesture in reverse from right to
+left.</p>
+<p>A few phones, like the HTC G1 and LG Ally, have physical Call Start and
+Call End buttons which can be used instead of the gestures.</p>
+<p>To end a call on a phone without a physical button, you must push a
+button on the touch-screen. The button is accessible, so you can use your
+directional controls to find and click the button. However, it can be
+challenging to do this quickly.</p>
+<ul>
+  <li>If you have Android 2.2 or later, there is a checkbox in the
+  Accessibility settings that allows the power button to hang up calls.
+  <li>If you have Android 2.1 or earlier and do not want to use the directional
+  pad to locate the end call button, you can try to learn where to
+  press the touch-screen: the button is in the center, towards the bottom. Note
+  that when you hold the phone near your ear, the screen turns off. You may
+  need to wait a second after moving the phone away to be able to press the
+  button.
+</ul>
+<p>Everything else about phone calls is already accessible if your phone has
+a keyboard: dialing, editing contacts, etc.</p>
+
+<h2>Conclusion</h2>
+<p>Now you know everything you need to start using your phone! The rest of
+this guide will go into much more detail about some common things you might want
+to do with your phone, and how to customize your experience to work just right
+for you.</p>
+<p>At this point, many of your questions may not be specific to
+accessibility. If you want to learn how to make phone calls, synchronize your
+contacts, play music, or more, you don't need a special guide for accessibility.
+You can just read the manual that came with your phone, or search the Internet
+for general advice on using Android. In many cases, your experience may not be
+very different than the experience for any other user.</p>
+
+<div class="nav">
+<div class="nav_back"><a href="enabling.html">Previous: Enabling
+accessibility</a></div>
+<div class="nav_up"><a href="index.html">Up: Android Accessibility</a></div>
+<div class="nav_next"><a href="services.html">Next: Accessibility
+Services</a></div>
+</div>
+
+</div>
+</body>
+</html>

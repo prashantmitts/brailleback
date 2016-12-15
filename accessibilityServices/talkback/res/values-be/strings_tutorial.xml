@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title_pref_tutorial" msgid="3245369379022519951">"Запусціць дапаможнiк па функцыі \"Explore by touch\""</string>
+    <string name="accessibility_tutorial_title" msgid="3604139189214645351">"Дапаможнік па доступу"</string>
+    <string name="accessibility_tutorial_next" msgid="5403131568391761625">"Далей"</string>
+    <string name="accessibility_tutorial_back" msgid="7953265962480572962">"Назад"</string>
+    <string name="accessibility_tutorial_finish" msgid="8651842380314324443">"Завяршыць"</string>
+    <string name="accessibility_tutorial_skip" msgid="4635703249458449485">"Выйсці"</string>
+    <string name="accessibility_tutorial_touch_disabled" msgid="1947871282831171107">"Магчымасць націску адключан, пакуль запушчаны дапаможнiк"</string>
+    <string name="accessibility_tutorial_lesson_1_title" msgid="8913174159810078422">"Урок 1: Вывучэнне экрана"</string>
+    <string name="accessibility_tutorial_lesson_1_text_1" msgid="6281024124325477313">"Пасля ўключэння функцыі Explore by Touch вы можаце дакрануцца да экрана, каб даведацца, што знаходзiцца пад вашым пальцам. Напрыклад, бягучы экран змяшчае значкі прыкладанняў. Знайдзіце адно з іх, дакрануўшыся да экрана і прасунуўшы палец навокал."</string>
+    <string name="accessibility_tutorial_lesson_1_text_2_more" msgid="7154137274310772436">"Добра. Працягвайце перасоўваць палец па экране, пакуль не знойдзеце яшчэ хаця б адзін значок."</string>
+    <string name="accessibility_tutorial_lesson_1_text_3" msgid="5866504456242703872">"Вы таксама можаце праглядаць інфармацыю, правёўшы пальцам улева і ўправа ў любым месцы экрана. Паспрабуйце хутка перасунуць палец злева направа, каб перайсці да наступнага значка."</string>
+    <string name="accessibility_tutorial_lesson_1_text_4" msgid="56981537955090208">"Каб актываваць тое, што вы вывучылі, дакраніцеся да экрану два разы. Праглядайце, пакуль не знойдзеце значок прыкладання <xliff:g id="APP_NAME">%1$s</xliff:g>. Затым двойчы націсніце на любым месцы на экране, каб актываваць яго."</string>
+    <string name="accessibility_tutorial_lesson_1_text_5" msgid="1208294090974872449">"Вы знайшлі значок прыкладання <xliff:g id="APP_NAME">%1$s</xliff:g>. Двойчы націсніце ў любым месцы на экране, каб актываваць значок."</string>
+    <string name="accessibility_tutorial_lesson_1_text_5_exited" msgid="8862005898053070331">"Вы прайшлі праз значок прыкладання <xliff:g id="APP_NAME_0">%1$s</xliff:g>. Паспрабуйце праглядаць экран, пакуль не знойдзеце значок прыкладання <xliff:g id="APP_NAME_1">%1$s</xliff:g> яшчэ раз."</string>
+    <string name="accessibility_tutorial_lesson_1_text_6" msgid="4094982888777210681">"Каб перайсці да наступнага ўрока, знайдзіце кнопку <xliff:g id="NEXT">%1$s</xliff:g>, змешчаную ў правай нiжняй частцы экрана, а потым двойчы націсніце яе, каб актываваць."</string>
+    <string name="accessibility_tutorial_lesson_2_title" msgid="8237242914117751937">"Урок 2: Прагортванне спісаў"</string>
+    <string name="accessibility_tutorial_lesson_2_text_1" msgid="3701529365516687824">"Каб прагортваць спіс, вы можаце рухаць двума пальцамі па экране. Напрыклад, бягучы экран утрымлiвае спіс назваў прыкладанняў, які можна пракручваць уверх ці ўніз. Па-першае, паспрабуйце прагледзець экран і вызначыць прыкладанне."</string>
+    <string name="accessibility_tutorial_lesson_2_text_2" msgid="6798295786754555066">"Цяпер пакладзіце два пальцы на элемент спісу і перасуньце абодва пальцы уверх. Калі вы дасягнеце верху экрана, падніміце пальцы, змясціце іх ніжэй па спісе і зноў перасуньце ўверх."</string>
+    <string name="accessibility_tutorial_lesson_2_text_3" msgid="3159628036244792602">"Паглядзiце на экран, каб знайсці яшчэ адно прыкладанне."</string>
+    <string name="accessibility_tutorial_lesson_2_text_4" msgid="8714551968743323879">"Вы таксама можаце пракруціць ўсю старонку, правёўшы пальцам. Для пераходу да наступнай старонкi правядзіце ўправа, а потым улева адным рухам. Паспрабуйце пракруцiць да наступнай старонкi, правёўшы ўправа, а потым улева."</string>
+    <string name="accessibility_tutorial_lesson_2_text_5" msgid="8943035012040524546">"Зноў паглядзiце на экран, каб знайсці прыкладанне на бягучай старонцы."</string>
+    <string name="accessibility_tutorial_lesson_2_text_6" msgid="6541093467485133324">"Гартанне ў процiлеглым кiрунку, улева,а потым управа адным рухам, прывядзе на папярэднюю старонку. Паспрабуйце прагартаць да папярэдняй, правёўшы ўлева, а потым управа."</string>
+    <!-- no translation found for accessibility_tutorial_lesson_2_text_7 (3684610203615874623) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_3_title (6024010587544294119) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_3_text_1 (9044343256290855911) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_3_text_2 (5215263111579070328) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_3_text_3_hidden (8766520681673257029) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_3_text_3 (2904044424555349808) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_3_text_4 (2111031135741866859) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_3_text_5 (1433387654169429731) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_title (3898999689844982160) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_1 (9109984626149104730) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_2 (8061829788850239030) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_3_focus_lost (8713408442068375091) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_3 (5978230561116221609) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_4_menu_hidden (879065229665819294) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_4 (2648520368832903832) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_5_granularity_changed (124123881203918192) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_5_next (3704738796332255150) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_5_finish (1105011845460095430) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_4_text_view_text (6855162251486030701) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_title (8613456449816489894) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_text_1 (3546446192289638847) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_text_2 (8657622876258666475) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_text_3 (3380647467066087130) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_text_4 (8558884036003156069) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_text_5 (1428643548218176340) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_text_6 (7272393741816463439) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_text_7 (8890219138239550872) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_text_8 (9077661742567966303) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_lesson_5_editable_text (3537304203610851169) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_alert_dialog_exit (6604033839776950241) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_service_inactive_title (5640949274947370358) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_service_inactive_message (1808749405557397970) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_service_suspended_title (7163740223497398638) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_service_suspended_message (5633367032537299661) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_missing_assignment_title (5676431029357436455) -->
+    <skip />
+    <!-- no translation found for accessibility_tutorial_missing_assignment_message (2845312981319504607) -->
+    <skip />
+</resources>

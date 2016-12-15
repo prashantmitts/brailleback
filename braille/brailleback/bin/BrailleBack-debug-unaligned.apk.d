@@ -1,0 +1,23 @@
+/home/prashant/Desktop/eyes-free/braille/brailleback/bin/BrailleBack-debug-unaligned.apk : \
+/home/prashant/Desktop/eyes-free/braille/brailleback/bin/BrailleBack.ap_ \
+/home/prashant/Desktop/eyes-free/braille/brailleback/bin/classes.dex \
+/home/prashant/Desktop/eyes-free/braille/service/bin/classes.jar \
+/home/prashant/Desktop/eyes-free/braille/client/bin/classes.jar \
+/home/prashant/Desktop/eyes-free/libraries/utils/bin/classes.jar \
+/home/prashant/Desktop/eyes-free/libraries/compatutils/bin/classes.jar \
+/home/prashant/Desktop/eyes-free/libraries/utils/libs/android_midi_lib.jar \
+/home/prashant/Desktop/eyes-free/libraries/compatutils/libs/android-support-v4.jar \
+/home/prashant/Desktop/eyes-free/braille/service/libs/mips/libbrlttywrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/mips/liblouiswrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/armeabi/libbrlttywrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/armeabi/liblouiswrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/mips64/libbrlttywrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/mips64/liblouiswrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/x86/libbrlttywrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/x86/liblouiswrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/x86_64/libbrlttywrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/x86_64/liblouiswrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/arm64-v8a/libbrlttywrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/arm64-v8a/liblouiswrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/armeabi-v7a/libbrlttywrap.so \
+/home/prashant/Desktop/eyes-free/braille/service/libs/armeabi-v7a/liblouiswrap.so \
